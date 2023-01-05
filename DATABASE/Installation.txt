@@ -1,0 +1,5 @@
+How to install?
+
+- upload files.zip file to your server/hosting.
+- edit and add your database details in ./app/config.php
+- upload amazcode.sql to your database.

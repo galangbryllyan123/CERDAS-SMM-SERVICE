@@ -1,0 +1,4 @@
+Login Details:
+email: numairawan1@gmail.com
+
+password: AMAZCODE
